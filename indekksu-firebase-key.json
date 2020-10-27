@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nykelab",
+  "private_key_id": "903e2caf47b180e64f94c6f4b9db5087af455f83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjkJTeZLoA5WMg\ng33j7RmJp9Fzslo5sDmLoUPWj38bIg3VlVAjTDPdGEtxU+Q47eTxmj1vJC1GRqPO\nCoz77wO7Zr/Ng9Z7iAa3IqICN1DdyriT6coNvzYzA7RbMPhAdsmvFj7GSQZR5X/C\nQ9XeidfXdNAo19E3pRjZICuYj7UkUfyTsdxxEVVV9/eIo1id2V98+xJkHA82HbgU\nTDrVMfGaJ7E1bR4vSw7bj4LUVea7wjWR6KArEUlB4+Zffcct9RfKUz2vFC8oOrMZ\nkNLJTwjXpmjyYYxvMYxin18Pt7X4iuiCrO+7hQp3tAFvdO5q7fF71VEX41mM85FX\nZlHNThy5AgMBAAECggEAF5ruKE4KQdDJmiwtnTyhXSc6aa4O4CRMqdRb9zgaGxhK\nl1TGU+0CBb2RCNPHDRU3Pg0N8ZcO97bY48TyKCl8SX6QZ4r1DwoWiT1nUQPIKIOQ\nZy51gjzLDFpmZV20aKpxxA7Siuq1BD6CRMZY211Q1YWFWLE/X25poA8vWoNQqtBA\nvwEMk9uDcTtv7wte6o7tFkhfqR+GTCCrzjkza2Ymw3N139rWH3iNPgfoe8uZwAjg\nxAV2dr6yGfCar6OwVF7uiklXGxzTgmYnTGzMUbH2TL4lp11Aqckrw7s9dIAgoh3Z\n6xf9cc/pU9xNw8TxdSLILZKO7tbU5SS2lJFWaB6P8QKBgQD6qmY8D4HxXaavZlnL\nIrQOxaVvpxDr3Nb2Z4s1CrucOP7TRWIzvPdIsBFV/OGRbKHBqEpVaHWFwCPccyN1\nJmTSestlrSi0qW3j6zo8R5PqS7ZDRribYMZ/x+IDThi22vBYkJuee/AZaiRZYILp\n1EKo3Pal2vKoPsnMOiVwryxMcQKBgQDoaFTCkqcPoHxuUvBNIcDAFbqk/kmXWy3l\nTrRMZkbSkV3p/YQcxz9jgRjA8zk/O2YblNfDNrztRygm8q3kk3ETLPmbM7EAVeN1\nH/8cIms0qaRzPpRKSfTD63tVTGZXMSE1uaHLHYRDdfO59jS+OjOdhldYv6JvspUC\ni+iAxdOYyQKBgF6InP3Rq2PnudE0fHDLqbRYfcfZ7dvF8ZwD+NAMOCz2ocPzytFQ\nVsInBKK1OCysF2T9nusO9iN3Dw84rQqlbCik/shdwZhAvZzTPac2J2aZHyfIKB8R\nJEtUirxMW626bCI6hzYB787l5MeASl79GhatHqf2JsWkyF4pH62bos1BAoGAMY39\ndLd8c7KOlZ+NqYSm6s43S/MEkgdZE+niO+Aa/c8NLVVnFBPQClF+i7XQ4RCzRvJH\nx1ImmplvkE5ykah2ldYjKtqsxRuLMnAuHzufjE0XyZLwX57BV/0gASIXOEQ7ho8c\nVojmqNO/skkzGdSjKNV6TmweIJ79ctuOKdcEtTECgYEA5xM50dzdd97BD7CeWzMR\n1BOtVVPeiWZYYdQ8Zhh3I/kd0luScZxGbNimMc50W0XIhPyzxr55ldN12RI+dFnp\n4Iq4mvg7mg9tcPJv6Smx60DI38y6RBrComw9eooYjJkGAwLBVRyoQpZhKvrnbnOB\n8Bbv3T5u7PSaKk6+VBdeMqU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-co3mc@nykelab.iam.gserviceaccount.com",
+  "client_id": "107307729117712006631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-co3mc%40nykelab.iam.gserviceaccount.com"
+}
